@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro de Fornecedor</title>
+    <link rel="stylesheet" href="../css/form-fornecedor.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <img src="/website_escola/assets/logo.png" alt="" />
+        </div>
+        <!--logo-->
+
+        <div class="left-page">
+          <button class="cadastro">Cadastrar-se</button>
+          <button class="login">Entrar</button>
+        </div>
+        <!--desktop-->
+      </div>
+      <!--container-->
+    </header>
+
+    <div class="title">
+      <img
+        src="/website_escola/assets/cardboard-box-isometric-by-Vexels.png"
+        alt=""
+      />
+      <h1>Cadastro do(a) fornecedor(a) - <span>Centro Universitário</span></h1>
+    </div>
+    <main>
+      <div class="background-fornecedor"></div>
+
+      <form id="fornecedorForm">
+        <div class="form-group">
+          <label for="nomeEmpresa">Nome da Empresa:</label>
+          <input
+            type="text"
+            id="nomeEmpresa"
+            name="nomeEmpresa"
+            class="form-control half-width"
+            placeholder="Empresa XYZ LTDA"
+          />
+        </div>
+        <div class="form-group">
+          <label for="tipoFornecedor">Tipo de Fornecedor:</label>
+          <input
+            type="text"
+            id="tipoFornecedor"
+            name="tipoFornecedor"
+            class="form-control half-width"
+            placeholder="Equipamentos de Laboratório"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="cnpj">CNPJ/CPF:</label>
+          <input
+            type="text"
+            id="cnpj"
+            name="cnpj"
+            class="form-control"
+            placeholder="00.000.000/0001-00"
+          />
+        </div>
+        <div class="form-group">
+          <label for="endereco">Endereço:</label>
+          <input
+            type="text"
+            id="endereco"
+            name="endereco"
+            class="form-control"
+            placeholder="Rua Exemplo, 123"
+          />
+        </div>
+        <div class="form-group">
+          <label for="telefone">Telefone:</label>
+          <input
+            type="text"
+            id="telefone"
+            name="telefone"
+            class="form-control"
+            placeholder="(00) 1234-5678"
+          />
+        </div>
+        <div class="form-group">
+          <label for="email">E-mail:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            class="form-control"
+            placeholder="exemplo@empresa.com"
+          />
+        </div>
+        <div class="form-group">
+          <label for="responsavel">Responsável:</label>
+          <input
+            type="text"
+            id="responsavel"
+            name="responsavel"
+            class="form-control"
+            placeholder="João da Silva"
+          />
+        </div>
+        <div class="form-group">
+          <label for="cargoResponsavel">Cargo do Responsável:</label>
+          <input
+            type="text"
+            id="cargoResponsavel"
+            name="cargoResponsavel"
+            class="form-control"
+            placeholder="Diretor Comercial"
+          />
+        </div>
+        <div class="form-group">
+          <label for="telefoneResponsavel">Telefone do Responsável:</label>
+          <input
+            type="text"
+            id="telefoneResponsavel"
+            name="telefoneResponsavel"
+            class="form-control"
+            placeholder="(00) 9876-5432"
+          />
+        </div>
+        <div class="form-group">
+          <label for="emailResponsavel">E-mail do Responsável:</label>
+          <input
+            type="email"
+            id="emailResponsavel"
+            name="emailResponsavel"
+            class="form-control"
+            placeholder="responsavel@empresa.com"
+          />
+        </div>
+        <div class="form-group">
+          <label for="descricaoProdutos"
+            >Descrição dos Produtos/Serviços:</label
+          >
+          <textarea
+            rows="10"
+            id="descricaoProdutos"
+            name="descricaoProdutos"
+            class="form-control"
+            placeholder="Fornecimento de equipamentos de laboratório de última geração."
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="certificacoesLicencas">Certificações ou Licenças:</label>
+          <input
+            type="text"
+            id="certificacoesLicencas"
+            name="certificacoesLicencas"
+            class="form-control"
+            placeholder="ISO 9001, Licença Ambiental"
+          />
+        </div>
+        <div class="form-group">
+          <label for="formasPagamento">Formas de Pagamento:</label>
+          <input
+            type="text"
+            id="formasPagamento"
+            name="formasPagamento"
+            class="form-control"
+            placeholder="Cartão de crédito, Transferência bancária"
+          />
+        </div>
+        <div class="submit-environment">
+          <button class="submit-all" type="submit">Enviar</button>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
