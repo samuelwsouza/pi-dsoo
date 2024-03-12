@@ -3,9 +3,9 @@
 ### Grupo composto por:
 
 - Samuel Willians de Souza (samuelwsouza)
-- César Roque Mendina (cesarmendina)
-- Giovanna Timoteo Zeferino (GiovannaZef)
-- Pedro Vinicius Oliveira de Medeiros (PedroVinnicius)
+- César Roque Mendina (cesarmendina - https://github.com/cesarmendina)
+- Giovanna Timoteo Zeferino (GiovannaZef - https://github.com/GiovannaZef)
+- Pedro Vinicius Oliveira de Medeiros (PedroVinnicius - https://github.com/PedroVinnicius)
 
 ## Este projeto se baseia em:
 
