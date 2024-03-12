@@ -11,11 +11,11 @@
 
 ### Nesta segunda fase do projeto, o objetivo foi a criação de um protótipo de sistema de um entro universitário, tendo como base os diagramas de caso de uso e o diagrama de classes que foram desenvolvidos na primeira etapa do trabalho.
 
+![image](https://github.com/samuelwsouza/pi-dsoo/assets/83421432/7f59bf4c-6b5c-4917-b6ed-042020843d45)
+
 ![image](https://github.com/samuelwsouza/pi-dsoo/assets/83421432/ff2f3ab4-cf5e-4ab3-838f-526b654489d0)
 
 ![image](https://github.com/samuelwsouza/pi-dsoo/assets/83421432/3b687077-ded9-42d2-91ac-bf701c60e61d)
-
-![image](https://github.com/samuelwsouza/pi-dsoo/assets/83421432/7f59bf4c-6b5c-4917-b6ed-042020843d45)
 
 ** Markdown - Aluno
 
