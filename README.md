@@ -2,10 +2,10 @@
 
 ### Grupo composto por:
 
-- Samuel Willians de Souza
-- César Roque Mendina
-- Giovanna Timoteo Zeferino
-- Pedro Vinicius Oliveira de Medeiros
+- Samuel Willians de Souza (samuelwsouza)
+- César Roque Mendina (cesarmendina)
+- Giovanna Timoteo Zeferino (GiovannaZef)
+- Pedro Vinicius Oliveira de Medeiros (PedroVinnicius)
 
 ## Este projeto se baseia em:
 
