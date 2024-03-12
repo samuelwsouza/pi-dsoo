@@ -9,7 +9,7 @@
 
 ## Este projeto se baseia em:
 
-### Nesta segunda fase do projeto, o objetivo foi a criação de um protótipo de sistema de um entro universitário, tendo como base os diagramas de caso de uso e o diagrama de classes que foram desenvolvidos na primeira etapa do trabalho.
+### Nesta segunda fase do projeto, o objetivo foi a criação de um protótipo de sistema de um centro universitário, tendo como base os diagramas de caso de uso e o diagrama de classes que foram desenvolvidos na primeira etapa do trabalho.
 
 ![image](https://github.com/samuelwsouza/pi-dsoo/assets/83421432/7f59bf4c-6b5c-4917-b6ed-042020843d45)
 
