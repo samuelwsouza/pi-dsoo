@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro de Pessoa Física</title>
+    <link rel="stylesheet" href="../css/form-pessoafisica.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <img src="/website_escola/assets/logo.png" alt="" />
+        </div>
+        <!--logo-->
+
+        <div class="left-page">
+          <button class="cadastro">Cadastrar-se</button>
+          <button class="login">Entrar</button>
+        </div>
+        <!--desktop-->
+      </div>
+      <!--container-->
+    </header>
+
+    <div class="title">
+      <img
+        src="https://cdn.discordapp.com/attachments/1216214759033016442/1216941014934097961/pessoa.webp?ex=660237a3&is=65efc2a3&hm=eb8ec15a3fd8466d75d7ff1bd42a856444e0fd55100978345fa4a5cc7360650a&"
+        alt=""
+      />
+      <h1>Cadastro da Pessoa Física - <span>Centro Universitário</span></h1>
+    </div>
+    <main>
+      <div class="background-fornecedor"></div>
+
+      <form id="fornecedorForm">
+        <div class="form-group">
+          <label for="nomeEmpresa">Nome Completo:</label>
+          <input
+            type="text"
+            id="nomeCompleto"
+            name="nomeCompleto"
+            class="form-control half-width"
+            placeholder="João da Silva"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="cnpj">RG/CPF:</label>
+          <input
+            type="text"
+            id="cnpj"
+            name="cnpj"
+            class="form-control"
+            placeholder="123.456.789-10"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="endereco">Endereço:</label>
+          <input
+            type="text"
+            id="endereco"
+            name="endereco"
+            class="form-control"
+            placeholder="Rua Exemplo, 123"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="telefone">Telefone:</label>
+          <input
+            type="text"
+            id="telefone"
+            name="telefone"
+            class="form-control"
+            placeholder="(00) 1234-5678"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="email">E-mail:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            class="form-control"
+            placeholder="exemplo@gmail.com"
+          />
+        </div>
+
+        <div class="submit-environment">
+          <button class="submit-all" type="submit">Enviar</button>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
