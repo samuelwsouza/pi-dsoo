@@ -6,6 +6,7 @@
 - César Roque Mendina (cesarmendina - https://github.com/cesarmendina)
 - Giovanna Timoteo Zeferino (GiovannaZef - https://github.com/GiovannaZef)
 - Pedro Vinicius Oliveira de Medeiros (PedroVinnicius - https://github.com/PedroVinnicius)
+- Adriel Penha Munhoz
 
 ## Este projeto se baseia em:
 
